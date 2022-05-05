@@ -1,0 +1,11 @@
+1. mv
+2. touch
+3. change to home
+4. ls -a :- list all files including hidden file starting with '.'
+   ls -i :- list file's inode index number
+   ls -l :- list with long format 
+   ls -r :- list in reverse order
+   ls -s :- list file size
+5. rm 
+6. - An absolute path is defined as specifying the location of a file or directory from the root directory(/).
+   - Relative path is defined as the path related to the present working directly(pwd) or location from current directory
